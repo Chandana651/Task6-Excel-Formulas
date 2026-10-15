@@ -1,0 +1,11 @@
+Function,Purpose
+VLOOKUP,finds related information
+XLOOKUP,searches for matching values
+IF,checks a condition
+SUMIFS,adds values meeting conditons
+COUNTIFS,counts matching records
+LEFT,extracts characters from the beginning
+RIGHT,Extracts characters from the end
+LEN,counts characters
+UPPER,converts text to uppercase
+TRIM,removes extra spaces
